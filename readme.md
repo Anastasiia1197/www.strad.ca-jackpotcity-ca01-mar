@@ -3,10 +3,10 @@
 
 !!! 
 1) всі посилання в head у файлы index.html мають бути https://www.strad.ca/ (сайт на якому буде контент). також змінити у sitemap та robots.txt на правильне посилання + дати сьогоднішні 
-2) на сторінці /nl-nl/ контент такий самий, як в index.html АЛЕ: 
-(можете створити нову папку /nl-nl/ або перейменувати)
+2) на сторінці /en-ca/ контент такий самий, як в index.html АЛЕ: 
+(можете створити нову папку /en-ca/ або перейменувати)
 
-   - <html lang="nl-nl">
+   - <html lang="en-CA">
    - шляхи до файлів мають бути (приклад)
          <link rel="stylesheet" href="/style.css">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -26,9 +26,9 @@
 
 
 ставимо хрефланги та канонікл у head 
-<link rel="alternate" hreflang="nl-NL" href="https://www.strad.ca/nl-nl/">
+<link rel="alternate" hreflang="en-CA" href="https://www.strad.ca/en-ca/">
 <link rel="alternate" hreflang="x-default" href="https://www.strad.ca/">
-<link rel="canonical" href="https://www.strad.ca/nl-nl/">
+<link rel="canonical" href="https://www.strad.ca/en-ca/">
 
 
 !!! **КЛЮЧІ такод потрібно додавати у промт, та вказувати: щоб їх використовувал ШІ у написанні контенту**
@@ -47,8 +47,8 @@ jackpotcity com
 app jackpotcity
 
 Количество слов: **2000**
-Язык:  Нідерландська мова    <html lang="nl">
-GEO: Нідерланди 
+Язык:  English   <html lang="en">
+GEO: Canada 
 
 Создаем блок с отзывами + EEAT  [[link]([url](https://docs.google.com/document/d/1-VGf1UnShHhgFTeFYlMh9JhH-yoqpeLJfmf0A0-hYMQ/edit?tab=t.0)) ](https://docs.google.com/document/d/1-VGf1UnShHhgFTeFYlMh9JhH-yoqpeLJfmf0A0-hYMQ/edit?tab=t.0)
 
